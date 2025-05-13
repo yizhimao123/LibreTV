@@ -110,10 +110,6 @@ const API_SITES = {
         api: 'https://ikunzyapi.com',
         name: 'iKun资源'
     },
-    testSource: {
-        api: 'https://www.example.com',
-        name: '空内容测试源',
-    },
     ckzy: {
         api: 'https://www.ckzy1.com',
         name: 'CK资源',
